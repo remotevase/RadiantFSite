@@ -197,8 +197,8 @@ section {
 .button .button-text {
 	color: #1e1e1e;
 	text-transform: uppercase;
-	font-size: 18px;
-	display: absolute;
+	font-size: 14px;
+	text-align: center;
 }
 
 .button-dark {
